@@ -39,7 +39,7 @@ else
 
     # Install Node.js and npm
     sudo apt update
-    apt-get -y install -y nodejs
+    apt-get -y install nodejs
     node --version
     echo "finished downloading & installing node"
 fi
